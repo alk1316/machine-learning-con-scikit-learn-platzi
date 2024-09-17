@@ -5,14 +5,14 @@
 # Indice
 - [1. Aprender los conceptos clave](#1-aprender-los-conceptos-clave)
 - [2. Iniciar un proyecto con sklearn](#2-iniciar-un-proyecto-con-sklearn)
-  - [Configuración de nuestro entorno Python](#configuración-de-nuestro-entorno-python)
+  - [Configuración del entorno virtual Python](#configuración-de-nuestro-entorno-python)
 
 
 # 1. Aprender los conceptos clave
 
 # 2. Iniciar un proyecto con sklearn
 
-## Configuración de entorno virtual
+## Configuración del entorno virtual Python
 Entorno virtual con Python
 
 Para crear un entorno virtual utilizas:
