@@ -5,7 +5,7 @@
 # Indice
 - [1. Aprender los conceptos clave](#1-aprender-los-conceptos-clave)
 - [2. Iniciar un proyecto con sklearn](#2-iniciar-un-proyecto-con-sklearn)
-  - [Configuración del entorno virtual Python](#configuración-de-nuestro-entorno-python)
+  - [Configuración del entorno virtual Python](#configuración-del-entorno-virtual-python)
 
 
 # 1. Aprender los conceptos clave
