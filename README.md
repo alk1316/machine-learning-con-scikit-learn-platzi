@@ -15,18 +15,18 @@
 ## Configuración del entorno virtual Python
 Entorno virtual con Python
 
-Para crear un entorno virtual utilizas:
+- Para crear un entorno virtual:
 
 `python3 -m venv .NOMBRE-ENTORNO`
 
-Para activarlo:
+- Para activarlo:
 
 `source -m ./.env/bin/activate`
 
-Si queremos desactivarlo:
+- Si queremos desactivarlo:
 
 `deactivate`
 
-Si deseamos ver las librerías instaladas en el ambiente:
+- Si deseamos ver las librerías instaladas en el ambiente:
 
 `pip freeze`
