@@ -17,17 +17,20 @@
 ## Configuración del entorno virtual Python
 Entorno virtual con Python
 
+- Version de Python
+`python --version`
+
 - Para crear un entorno virtual:
 
-`python3 -m venv .NOMBRE-ENTORNO`
+`conda create --name mi_entorno python=3.9`
 
 - Para activarlo:
 
-`source -m ./.env/bin/activate`
+`conda activate nombre_del_entorno`
 
 - Si queremos desactivarlo:
 
-`deactivate`
+`conda deactivate`
 
 - Si deseamos ver las librerías instaladas en el ambiente:
 
